@@ -36,7 +36,7 @@ public class Main extends Application { //to run the javafx method to calling th
         launch();
     }
 
-    @Override
+    
     public void start (Stage primaryStage) throws Exception{
         //create a map to store passengers details and seat number
         HashMap<String, Integer> customerDetails = new HashMap<String, Integer>();
